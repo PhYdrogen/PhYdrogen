@@ -1,15 +1,22 @@
 ### Hi there !
-<div>
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/PhYdrogen/PhYdrogen/master/assets/discord.svg" /> .hydrogen
-</div>
-<a href="https://www.linkedin.com/in/gabriel-co%C3%ABffier-15348817b/"> 
-  <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/PhYdrogen/PhYdrogen/master/assets/linkedin.svg" />
-</a>
-<br />
-
-<a href="https://medium.com/@coeffiergabriel">
-  <img align="left" alt="Medium" width="22px" src="https://raw.githubusercontent.com/PhYdrogen/PhYdrogen/master/assets/medium.svg" />
-</a>
+<ul>
+  
+<li> 
+  <div>
+    <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/PhYdrogen/PhYdrogen/master/assets/discord.svg" /> .hydrogen
+  </div>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/gabriel-co%C3%ABffier-15348817b/"> 
+    <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/PhYdrogen/PhYdrogen/master/assets/linkedin.svg" />
+  </a>
+</li>
+<li>  
+  <a href="https://medium.com/@coeffiergabriel">
+    <img align="left" alt="Medium" width="22px" src="https://raw.githubusercontent.com/PhYdrogen/PhYdrogen/master/assets/medium.svg" />
+  </a>
+</li>
+</ul>
 
 <br />
 
