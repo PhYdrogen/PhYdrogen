@@ -8,12 +8,12 @@
 </li>
 <li>
   <a href="https://www.linkedin.com/in/gabriel-co%C3%ABffier-15348817b/"> 
-    <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/PhYdrogen/PhYdrogen/master/assets/linkedin.svg" /> click me
+    <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/PhYdrogen/PhYdrogen/master/assets/linkedin.svg" /> Linkedin
   </a>
 </li>
 <li>  
   <a href="https://medium.com/@coeffiergabriel">
-    <img align="left" alt="Medium" width="22px" src="https://raw.githubusercontent.com/PhYdrogen/PhYdrogen/master/assets/medium.svg" /> click me
+    <img align="left" alt="Medium" width="22px" src="https://raw.githubusercontent.com/PhYdrogen/PhYdrogen/master/assets/medium.svg" /> Medium
   </a>
 </li>
 </ul>
