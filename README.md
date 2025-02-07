@@ -20,7 +20,7 @@
 
 <br />
 
-hi, i'm [Gabriel COËFFIER](coeffier-gabriel.vercel.app/), 23 years old and i love learning and building new things related to programming. I am also a student from the Holberton School Toulouse since September 2022 and going for the specialisation of blockchain / lowlevel.
+hi, i'm [Gabriel COËFFIER](coeffier-gabriel.vercel.app/), 25 years old and i love learning and building new things related to programming. I am also a student from the Holberton School Toulouse since September 2022 and going for the specialisation of blockchain / lowlevel.
 
 - 💼 any freelance work? do reach, [email](mailto:coeffiergabriel@gmail.com) :)
 - 💬 ask me about anything, i am happy to help
